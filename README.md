@@ -1,5 +1,6 @@
 ### Hi I am Olga Khokhlova👋 
 I am a financial manager and analyst. I am working in banking and studying data analyst at Yandex.Practicum. I am interested in analytics and i would like to develop in this field.
+You can see my projects in
 <!--
 **KhokhlovaOS/KhokhlovaOS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
